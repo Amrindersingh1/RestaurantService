@@ -1,7 +1,7 @@
 # Restaurant Suggestion and Management Application.
 - Document provided had a lot of typos in url and field names, so i fixed that to have uniform fields. (like: restaurant had a lot of typos). Due to this the request payload in documnet will not work unless typos are not fixed there too. I have provided fixed payload in this document below.
 - I am using a Embedded H2 database that is setup using provided schema.sql and data.sql files on application startup.
-- This is a maven project.
+- This Application was built in IntelliJ IDE
 - DataBase code is added. Used Spring Data JPA.
 - Unit tests added
 
